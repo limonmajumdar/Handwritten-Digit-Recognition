@@ -1,6 +1,8 @@
 # Handwritten-Digit-Recognition
 Handwritten Digit Recognition project using the MNIST dataset. This project preprocesses image data, reduces dimensionality with PCA, and classifies digits using an SVM classifier. Includes hyperparameter tuning, model evaluation, and deployment using joblib.
-#Objective:
+
+
+Objective:
 The project aims to develop a machine learning model capable of accurately classifying handwritten digits (0-9) from the MNIST dataset. This task is a classic benchmark in machine learning and pattern recognition, often used to test classification algorithms and preprocessing techniques.
 
 Key Components:
